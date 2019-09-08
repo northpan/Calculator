@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+c:\users\administrator\calculator\northpan\calculator\calculator\calculator.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+Calculator.obj : error LNK2011: 未链接预编译对象；映像可能不能运行
+C:\Users\Administrator\Calculator\northpan\Calculator\Debug\Calculator.exe : fatal error LNK1120: 1 个无法解析的外部命令
